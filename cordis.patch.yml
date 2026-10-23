@@ -1,0 +1,5 @@
+# my-browser：侧边栏“浏览器+”tab（收藏夹 / 历史 / 密码自动填写）。
+# 只有一行；宿主侧空实现，真正的东西全在 client.js。
+- insert:
+    - id: my-browser
+      name: '@local/my-browser'
